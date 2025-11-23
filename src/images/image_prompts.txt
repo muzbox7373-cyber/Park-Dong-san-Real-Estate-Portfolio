@@ -1,0 +1,25 @@
+[Main Page]
+1. PROFILE_IMG
+   - Description: 40-50대 전문직 남성, 신뢰감을 주는 정장 차림, 따뜻하지만 확신에 찬 미소, 스튜디오 조명.
+   - Prompt: Professional middle-aged asian businessman portrait, wearing a navy suit, warm smile, confident look, studio lighting, solid background, high quality
+
+2. OFFICE_BG
+   - Description: 깔끔하고 현대적인 공인중개사 사무실 또는 개인 서재 배경, 흐릿하게 처리하여 배경으로 사용.
+   - Prompt: Modern minimal office interior, blurred background, bokeh, bright and clean, wooden desk, books, professional atmosphere
+
+[Sub Pages]
+3. HANDSHAKE_IMG (CasesPage)
+   - Description: 계약 체결 후 악수하는 클로즈업 장면, 신뢰와 성공을 상징.
+   - Prompt: Close up shot of two businessmen shaking hands, wearing suits, blurred office background, symbol of trust and deal closure
+
+4. BUILDING_IMG (HistoryPage/CasesPage)
+   - Description: 성공적으로 거래된 상업용 고층 빌딩 또는 고급 아파트 전경.
+   - Prompt: Modern commercial skyscraper architecture, low angle view, blue sky, glass facade, sunny day
+
+5. MEETING_IMG (PhilosophyPage)
+   - Description: 고객과 진지하게 상담하는 모습, 서류를 검토하는 장면.
+   - Prompt: Business consultation meeting, reviewing documents on the table, serious and professional, focus on hands and papers
+
+6. MAP_IMG (ContactPage)
+   - Description: 추상적이고 깔끔한 지도 이미지.
+   - Prompt: Minimalist city map illustration, top view, clean lines, neutral colors
